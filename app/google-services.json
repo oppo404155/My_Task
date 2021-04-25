@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227356804736",
+    "project_id": "zinc-ellipse-311701",
+    "storage_bucket": "zinc-ellipse-311701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227356804736:android:dbe6373079be9c78f60865",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227356804736-m0oqp00svq4pvjj3krbb5vfnt5q3f811.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task",
+            "certificate_hash": "92ce897d6d358c198895d01cb267f28799652d49"
+          }
+        },
+        {
+          "client_id": "227356804736-6d685q37qsqan0qn1g5p9bfmmsgebd8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0MTVAP4Y-zGjz8fLvSeniBd41AIC-oOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227356804736-6d685q37qsqan0qn1g5p9bfmmsgebd8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
