@@ -4,7 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/drawer_layout"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
 
 
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -31,6 +32,7 @@
         android:gravity="center_horizontal"
         android:text="Request rd"
        android:background="@drawable/btn_shape"
+        android:textColor="#E5EDED"
         />
 
     <LinearLayout
@@ -94,6 +96,13 @@
 
 
         </com.google.android.material.textfield.TextInputLayout>
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/recycler"
+            android:visibility="invisible"
+            tools:visibility="visible"
+            />
 
 
     </LinearLayout>
