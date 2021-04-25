@@ -65,9 +65,7 @@ class MapsActivity : AppCompatActivity() {
 
         }
 
-        /**
-         * just for testing connectivity between app and firestore
-         */
+
         viewmodel.apply {
             setNewDestItem(Data("ahmed", 45.0, 90.0))
 
